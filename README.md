@@ -9,14 +9,6 @@ I like solving problems, experimenting with new technologies, and turning ideas 
 
 I’m currently **seeking internships and entry-level opportunities** where I can apply my knowledge, gain industry experience, and grow as a software developer.
 
----
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)]([https://linkedin.com/in/anilgorade](https://www.linkedin.com/in/anil-gorade-23914435b/)  
-[![X](https://img.shields.io/badge/X-black?logo=x&logoColor=white)](https://x.com/anilgorade)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anilgorade8@gmail.com)
-
----
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
