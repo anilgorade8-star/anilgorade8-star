@@ -12,7 +12,7 @@ I’m currently **seeking internships and entry-level opportunities** where I ca
 ---
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/anilgorade)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)]([https://linkedin.com/in/anilgorade](https://www.linkedin.com/in/anil-gorade-23914435b/)  
 [![X](https://img.shields.io/badge/X-black?logo=x&logoColor=white)](https://x.com/anilgorade)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anilgorade8@gmail.com)
 
