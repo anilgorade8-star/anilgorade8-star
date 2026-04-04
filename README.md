@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hi, I’m **Anil Gorade**, a Computer Science Engineering student passionate about building modern web applications and learning new technologies.
-I have a strong foundation in **HTML, CSS, JavaScript, and React.js**, and I’m currently expanding my backend development skills using **Java**. I enjoy creating real-world projects that combine both frontend and backend development.
+I have a strong foundation in **HTML, CSS, JavaScript, and React.js**, and I’m currently expanding my backend development skills using **JavaScript**. I enjoy creating real-world projects that combine both frontend and backend development.
 Along with web development, I’m also exploring **Artificial Intelligence and Machine Learning**, as I’m interested in building intelligent applications in the future.
 I like solving problems, experimenting with new technologies, and turning ideas into functional products. My goal is to continuously improve my development skills and contribute to impactful software projects.
 I’m currently **seeking internships and entry-level opportunities** where I can apply my knowledge, gain industry experience, and grow as a software developer.
@@ -20,8 +20,6 @@ I’m currently **seeking internships and entry-level opportunities** where I ca
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white)
-
 ---
 
 # 📊 GitHub Stats:
@@ -47,9 +45,7 @@ I’m currently **seeking internships and entry-level opportunities** where I ca
 ---
 
 [![](https://visitcount.itsvg.in/api?id=anilgorade8-star&icon=0&color=0)](https://visitcount.itsvg.in)
-
 ---
-
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
