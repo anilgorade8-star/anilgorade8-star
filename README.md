@@ -1,12 +1,8 @@
 # 💫 About Me:
 Hi, I’m **Anil Gorade**, a Computer Science Engineering student passionate about building modern web applications and learning new technologies.
-
 I have a strong foundation in **HTML, CSS, JavaScript, and React.js**, and I’m currently expanding my backend development skills using **Java**. I enjoy creating real-world projects that combine both frontend and backend development.
-
 Along with web development, I’m also exploring **Artificial Intelligence and Machine Learning**, as I’m interested in building intelligent applications in the future.
-
 I like solving problems, experimenting with new technologies, and turning ideas into functional products. My goal is to continuously improve my development skills and contribute to impactful software projects.
-
 I’m currently **seeking internships and entry-level opportunities** where I can apply my knowledge, gain industry experience, and grow as a software developer.
 
 ---
@@ -30,9 +26,7 @@ I’m currently **seeking internships and entry-level opportunities** where I ca
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=anilgorade8-star&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
-
 ![](https://nirzak-streak-stats.vercel.app/?user=anilgorade8-star&theme=dark&hide_border=false)
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anilgorade8-star&theme=dark&hide_border=false&layout=compact)
 
 ---
@@ -57,7 +51,7 @@ I’m currently **seeking internships and entry-level opportunities** where I ca
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
 </picture>
