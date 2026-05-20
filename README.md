@@ -3,11 +3,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7aa2f7&center=true&vCenter=true&width=550&lines=Full-Stack+MERN+Developer;CS+Engineering+Student;AI+%26+ML+Explorer;Passionate+Problem+Solver" alt="Typing SVG" />
   </a>
 </p>
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=anilgorade8-star&icon=5&color=6" alt="Profile Views" />
-</p>
-
 ---
 
 # 💫 About Me
@@ -86,21 +81,6 @@ Hi 👋, I’m **Anil Gorade** — a passionate **Computer Science Engineering s
   <img src="https://github-profile-trophy.vercel.app/?username=anilgorade8-star&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Anil's Trophies" />
 </p>
 
----
-
-# 📊 GitHub Analytics & Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anilgorade8-star&theme=tokyonight&hide_border=true&show_icons=true" width="48%" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=anilgorade8-star&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anilgorade8-star&theme=tokyonight&hide_border=true&layout=compact" width="48%" />
-  <img src="https://github-contributor-stats.vercel.app/api?username=anilgorade8-star&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" width="48%" />
-</p>
-
----
 
 # 🐍 Contribution Snake Game
 
