@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,20,30&height=220&section=header&text=Anil%20Gorade&fontSize=50&animation=fadeIn&fontAlignY=38&theme=tokyonight" alt="Anil Gorade Banner" />
+  <img src="developer_banner.png" alt="Anil Gorade Banner" width="100%" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.25);" />
 </p>
 
 <p align="center">
@@ -14,18 +14,27 @@
 
 ---
 
-# 💫 About Me
-
-Hi 👋, I’m **Anil Gorade** — a passionate **Computer Science Engineering student** and aspiring **Full-Stack MERN Developer** focused on building modern, scalable, and user-friendly web applications.
-
-- 💻 **Full-Stack Engineering**: Hands-on experience with HTML, CSS, JavaScript, React.js, Node.js, Express.js, SQL, MySQL, and EJS.
-- 🤖 **AI & ML Enthusiast**: Actively exploring Artificial Intelligence and Machine Learning to build intelligent applications.
-- 💡 **Passionate about**: Problem-solving, learning state-of-the-art technologies, and building clean & responsive UIs.
-- 🎯 **Career Goal**: To gain practical industry experience, contribute to impactful open-source projects, and grow as a software engineer.
+<table align="center" width="100%" style="border: none; border-collapse: collapse;">
+  <tr style="border: none;">
+    <td width="55%" valign="top" style="border: none; padding-right: 20px;">
+      <h2>💫 About Me</h2>
+      <p>Hi 👋, I’m <b>Anil Gorade</b> — a passionate <b>Computer Science Engineering student</b> at <b>PCET's NMIET, Pune</b> and an aspiring <b>Full-Stack MERN Developer</b> focused on building modern, scalable, and user-friendly web applications.</p>
+      <ul>
+        <li>💻 <b>Full-Stack Engineering</b>: Hands-on experience with HTML, CSS, JavaScript, React.js, Node.js, Express.js, SQL, MySQL, and EJS.</li>
+        <li>🤖 <b>AI & ML Explorer</b>: Actively exploring Artificial Intelligence and Machine Learning to build intelligent applications in the future.</li>
+        <li>💡 <b>Passionate about</b>: Problem Solving, building real-world projects, and creating clean & responsive UIs.</li>
+        <li>🎯 <b>Career Goal</b>: To gain practical industry experience, contribute to meaningful projects, and grow as a professional software developer.</li>
+      </ul>
+    </td>
+    <td width="45%" align="center" valign="middle" style="border: none;">
+      <img src="developer_illustration.png" alt="Developer Illustration" width="380" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-# 🎓 Academic Achievements
+# 🎓 Academic Spotlight
 
 Here is a spotlight on my academic journey and dedication to excellence:
 
@@ -47,10 +56,10 @@ Here is a spotlight on my academic journey and dedication to excellence:
     </td>
     <td align="center" width="34%" style="border: none;">
       <a href="#">
-        <img src="https://img.shields.io/badge/B.E.%20CS%20Engineering-In%20Progress-brightgreen?style=for-the-badge&logo=education&logoColor=white&color=1abc9c" alt="B.E. CS Engineering" />
+        <img src="https://img.shields.io/badge/B.Tech%20CSE-PCET's%20NMIET-brightgreen?style=for-the-badge&logo=education&logoColor=white&color=1abc9c" alt="B.Tech CSE" />
       </a>
-      <br/><b>Undergraduate Degree</b>
-      <br/>💻 Core Computing & MERN Stack
+      <br/><b>PCET's NMIET, Pune</b>
+      <br/>💻 B.Tech in Computer Science (In Progress)
     </td>
   </tr>
 </table>
