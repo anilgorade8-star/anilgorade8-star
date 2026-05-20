@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="developer_banner.png" alt="Anil Gorade Banner" width="100%" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.25);" />
-</p>
-
-<p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7aa2f7&center=true&vCenter=true&width=550&lines=Full-Stack+MERN+Developer;CS+Engineering+Student;AI+%26+ML+Explorer;Passionate+Problem+Solver" alt="Typing SVG" />
   </a>
@@ -14,50 +10,34 @@
 
 ---
 
-<table align="center" width="100%" style="border: none; border-collapse: collapse;">
-  <tr style="border: none;">
-    <td width="55%" valign="top" style="border: none; padding-right: 20px;">
-      <h2>💫 About Me</h2>
-      <p>Hi 👋, I’m <b>Anil Gorade</b> — a passionate <b>Computer Science Engineering student</b> at <b>PCET's NMIET, Pune</b> and an aspiring <b>Full-Stack MERN Developer</b> focused on building modern, scalable, and user-friendly web applications.</p>
-      <ul>
-        <li>💻 <b>Full-Stack Engineering</b>: Hands-on experience with HTML, CSS, JavaScript, React.js, Node.js, Express.js, SQL, MySQL, and EJS.</li>
-        <li>🤖 <b>AI & ML Explorer</b>: Actively exploring Artificial Intelligence and Machine Learning to build intelligent applications in the future.</li>
-        <li>💡 <b>Passionate about</b>: Problem Solving, building real-world projects, and creating clean & responsive UIs.</li>
-        <li>🎯 <b>Career Goal</b>: To gain practical industry experience, contribute to meaningful projects, and grow as a professional software developer.</li>
-      </ul>
-    </td>
-    <td width="45%" align="center" valign="middle" style="border: none;">
-      <img src="developer_illustration.png" alt="Developer Illustration" width="380" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);" />
-    </td>
-  </tr>
-</table>
+# 💫 About Me
+
+Hi 👋, I’m **Anil Gorade** — a passionate **Computer Science Engineering student** at **PCET's NMIET, Pune** and an aspiring **Full-Stack MERN Developer** focused on building modern, scalable, and user-friendly web applications.
+
+- 💻 Hands-on experience with **HTML, CSS, JavaScript, React.js, Node.js, Express.js, SQL, MySQL, and EJS**
+- 🤖 Exploring **Artificial Intelligence & Machine Learning**
+- 🚀 Love building **real-world projects**
+- 🎯 Focused on becoming a skilled **Software Developer**
+- 💡 Interested in **Backend Development & Scalable Applications**
 
 ---
 
 # 🎓 Academic Spotlight
 
-Here is a spotlight on my academic journey and dedication to excellence:
-
 <table align="center" width="100%">
   <tr style="border: none;">
     <td align="center" width="33%" style="border: none;">
-      <a href="#">
-        <img src="https://img.shields.io/badge/10th%20Grade%20(SSC)-91.80%25-brightgreen?style=for-the-badge&logo=googlescholar&logoColor=white&color=7aa2f7" alt="10th Marks" />
-      </a>
+      <img src="https://img.shields.io/badge/10th%20Grade%20(SSC)-91.80%25-brightgreen?style=for-the-badge&logo=googlescholar&logoColor=white&color=7aa2f7" />
       <br/><b>SSC Board</b>
       <br/>🏆 Outstanding Academic Merit
     </td>
     <td align="center" width="33%" style="border: none;">
-      <a href="#">
-        <img src="https://img.shields.io/badge/12th%20Grade%20(HSC)-86.67%25-brightgreen?style=for-the-badge&logo=googlescholar&logoColor=white&color=bb9af0" alt="12th Marks" />
-      </a>
+      <img src="https://img.shields.io/badge/12th%20Grade%20(HSC)-86.67%25-brightgreen?style=for-the-badge&logo=googlescholar&logoColor=white&color=bb9af0" />
       <br/><b>HSC Science Board</b>
       <br/>🚀 Distinction in Science & Math
     </td>
     <td align="center" width="34%" style="border: none;">
-      <a href="#">
-        <img src="https://img.shields.io/badge/B.Tech%20CSE-PCET's%20NMIET-brightgreen?style=for-the-badge&logo=education&logoColor=white&color=1abc9c" alt="B.Tech CSE" />
-      </a>
+      <img src="https://img.shields.io/badge/B.Tech%20CSE-PCET's%20NMIET-brightgreen?style=for-the-badge&logo=education&logoColor=white&color=1abc9c" />
       <br/><b>PCET's NMIET, Pune</b>
       <br/>💻 B.Tech in Computer Science (In Progress)
     </td>
@@ -92,10 +72,11 @@ Here is a spotlight on my academic journey and dedication to excellence:
 ---
 
 # 🚀 Currently Learning
-- 🍃 **MongoDB** & NoSQL Database Architecture
-- 🔗 **REST API** Best Practices & API Development
-- 🏗️ **Robust Backend** Scalable Systems Design
-- 🧠 **Artificial Intelligence** & Machine Learning Fundamentals
+
+- 🍃 MongoDB & NoSQL Database Architecture
+- 🔗 REST API Best Practices & API Development
+- 🏗️ Robust Backend & Scalable Systems Design
+- 🧠 Artificial Intelligence & Machine Learning Fundamentals
 
 ---
 
@@ -110,24 +91,13 @@ Here is a spotlight on my academic journey and dedication to excellence:
 # 📊 GitHub Analytics & Statistics
 
 <p align="center">
-  <table align="center" style="border: none; border-collapse: collapse; margin: auto;">
-    <tr style="border: none;">
-      <td align="center" valign="top" style="border: none; padding: 10px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=anilgorade8-star&theme=tokyonight&hide_border=true&show_icons=true" alt="Anil's GitHub Stats" width="410" />
-      </td>
-      <td align="center" valign="top" style="border: none; padding: 10px;">
-        <img src="https://nirzak-streak-stats.vercel.app/?user=anilgorade8-star&theme=tokyonight&hide_border=true" alt="Anil's Streak Stats" width="410" />
-      </td>
-    </tr>
-    <tr style="border: none;">
-      <td align="center" valign="top" style="border: none; padding: 10px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anilgorade8-star&theme=tokyonight&hide_border=true&layout=compact" alt="Anil's Top Languages" width="410" />
-      </td>
-      <td align="center" valign="top" style="border: none; padding: 10px;">
-        <img src="https://github-contributor-stats.vercel.app/api?username=anilgorade8-star&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Anil's Top Repositories" width="410" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=anilgorade8-star&theme=tokyonight&hide_border=true&show_icons=true" width="48%" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=anilgorade8-star&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anilgorade8-star&theme=tokyonight&hide_border=true&layout=compact" width="48%" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=anilgorade8-star&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" width="48%" />
 </p>
 
 ---
@@ -156,15 +126,18 @@ Here is a spotlight on my academic journey and dedication to excellence:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/anil-gorade-23914435b/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+
   <a href="mailto:anilgorade8@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+
   <a href="https://x.com/anil_gorade_09">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
+
   <a href="https://github.com/anilgorade8-star">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
