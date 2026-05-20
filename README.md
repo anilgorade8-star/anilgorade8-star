@@ -1,29 +1,63 @@
-# 💫 About Me:
-Hi 👋, I’m **Anil Gorade** — a passionate **Computer Science Engineering student** and aspiring **Full-Stack MERN Developer** focused on building modern, scalable, and user-friendly web applications.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,20,30&height=220&section=header&text=Anil%20Gorade&fontSize=50&animation=fadeIn&fontAlignY=38&theme=tokyonight" alt="Anil Gorade Banner" />
+</p>
 
-💻 I have hands-on experience with **HTML, CSS, JavaScript, React.js, Node.js, Express.js, SQL, MySQL, and EJS**, and I enjoy creating real-world projects that combine both frontend and backend technologies.
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7aa2f7&center=true&vCenter=true&width=550&lines=Full-Stack+MERN+Developer;CS+Engineering+Student;AI+%26+ML+Explorer;Passionate+Problem+Solver" alt="Typing SVG" />
+  </a>
+</p>
 
-🚀 I’m continuously improving my development skills, exploring new technologies, and strengthening my understanding of full-stack web development.
-
-🤖 Currently, I’m also exploring **Artificial Intelligence and Machine Learning** to build intelligent and impactful applications in the future.
-
-💡 I enjoy:
-- Problem Solving
-- Building Real-World Projects
-- Learning Modern Technologies
-- Creating Clean & Responsive UI
-- Exploring Backend Development
-
-🎯 My goal is to gain practical industry experience, contribute to meaningful projects, and grow as a professional software developer.
-
-📫 **Email:** anilgorade8@gmail.com  
-🔗 **LinkedIn:** https://www.linkedin.com/in/anil-gorade-23914435b/  
-🐙 **GitHub:** https://github.com/anilgorade8-star  
-🐦 **X (Twitter):** https://x.com/anil_gorade_09
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=anilgorade8-star&icon=5&color=6" alt="Profile Views" />
+</p>
 
 ---
 
-# 💻 Tech Stack:
+# 💫 About Me
+
+Hi 👋, I’m **Anil Gorade** — a passionate **Computer Science Engineering student** and aspiring **Full-Stack MERN Developer** focused on building modern, scalable, and user-friendly web applications.
+
+- 💻 **Full-Stack Engineering**: Hands-on experience with HTML, CSS, JavaScript, React.js, Node.js, Express.js, SQL, MySQL, and EJS.
+- 🤖 **AI & ML Enthusiast**: Actively exploring Artificial Intelligence and Machine Learning to build intelligent applications.
+- 💡 **Passionate about**: Problem-solving, learning state-of-the-art technologies, and building clean & responsive UIs.
+- 🎯 **Career Goal**: To gain practical industry experience, contribute to impactful open-source projects, and grow as a software engineer.
+
+---
+
+# 🎓 Academic Achievements
+
+Here is a spotlight on my academic journey and dedication to excellence:
+
+<table align="center" width="100%">
+  <tr style="border: none;">
+    <td align="center" width="33%" style="border: none;">
+      <a href="#">
+        <img src="https://img.shields.io/badge/10th%20Grade%20(SSC)-91.80%25-brightgreen?style=for-the-badge&logo=googlescholar&logoColor=white&color=7aa2f7" alt="10th Marks" />
+      </a>
+      <br/><b>SSC Board</b>
+      <br/>🏆 Outstanding Academic Merit
+    </td>
+    <td align="center" width="33%" style="border: none;">
+      <a href="#">
+        <img src="https://img.shields.io/badge/12th%20Grade%20(HSC)-86.67%25-brightgreen?style=for-the-badge&logo=googlescholar&logoColor=white&color=bb9af0" alt="12th Marks" />
+      </a>
+      <br/><b>HSC Science Board</b>
+      <br/>🚀 Distinction in Science & Math
+    </td>
+    <td align="center" width="34%" style="border: none;">
+      <a href="#">
+        <img src="https://img.shields.io/badge/B.E.%20CS%20Engineering-In%20Progress-brightgreen?style=for-the-badge&logo=education&logoColor=white&color=1abc9c" alt="B.E. CS Engineering" />
+      </a>
+      <br/><b>Undergraduate Degree</b>
+      <br/>💻 Core Computing & MERN Stack
+    </td>
+  </tr>
+</table>
+
+---
+
+# 💻 Tech Stack
 
 ### 🌐 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -32,13 +66,13 @@ Hi 👋, I’m **Anil Gorade** — a passionate **Computer Science Engineering s
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![EJS](https://img.shields.io/badge/EJS-8BC500?style=for-the-badge&logo=ejs&logoColor=white)
 
-### ⚙️ Backend
+### ⚙️ Backend & Databases
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=mysql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 💻 Programming Language
+### 💻 Programming Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 ### 🛠️ Tools & Technologies
@@ -49,45 +83,79 @@ Hi 👋, I’m **Anil Gorade** — a passionate **Computer Science Engineering s
 ---
 
 # 🚀 Currently Learning
-- MongoDB 🍃
-- REST API Development
-- Backend Architecture
-- SQL Database Design
-- Artificial Intelligence & Machine Learning
+- 🍃 **MongoDB** & NoSQL Database Architecture
+- 🔗 **REST API** Best Practices & API Development
+- 🏗️ **Robust Backend** Scalable Systems Design
+- 🧠 **Artificial Intelligence** & Machine Learning Fundamentals
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=anilgorade8-star&theme=tokyonight&hide_border=true&show_icons=true)
+# 🏆 GitHub Achievements & Trophies
 
-![](https://nirzak-streak-stats.vercel.app/?user=anilgorade8-star&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anilgorade8-star&theme=tokyonight&hide_border=true&layout=compact)
-
----
-
-# 🏆 GitHub Achievements
-![](https://github-profile-trophy.vercel.app/?username=anilgorade8-star&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=anilgorade8-star&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Anil's Trophies" />
+</p>
 
 ---
 
-## ✍️ Developer Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+# 📊 GitHub Analytics & Statistics
+
+<p align="center">
+  <table align="center" style="border: none; border-collapse: collapse; margin: auto;">
+    <tr style="border: none;">
+      <td align="center" valign="top" style="border: none; padding: 10px;">
+        <img src="https://github-readme-stats.vercel.app/api?username=anilgorade8-star&theme=tokyonight&hide_border=true&show_icons=true" alt="Anil's GitHub Stats" width="410" />
+      </td>
+      <td align="center" valign="top" style="border: none; padding: 10px;">
+        <img src="https://nirzak-streak-stats.vercel.app/?user=anilgorade8-star&theme=tokyonight&hide_border=true" alt="Anil's Streak Stats" width="410" />
+      </td>
+    </tr>
+    <tr style="border: none;">
+      <td align="center" valign="top" style="border: none; padding: 10px;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anilgorade8-star&theme=tokyonight&hide_border=true&layout=compact" alt="Anil's Top Languages" width="410" />
+      </td>
+      <td align="center" valign="top" style="border: none; padding: 10px;">
+        <img src="https://github-contributor-stats.vercel.app/api?username=anilgorade8-star&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Anil's Top Repositories" width="410" />
+      </td>
+    </tr>
+  </table>
+</p>
 
 ---
 
-## 🔥 Top Contributed Repositories
-![](https://github-contributor-stats.vercel.app/api?username=anilgorade8-star&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+# 🐍 Contribution Snake Game
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+    <img alt="github contribution animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="90%"/>
+  </picture>
+</p>
 
 ---
 
-## 👀 Profile Views
-![](https://visitcount.itsvg.in/api?id=anilgorade8-star&icon=5&color=6)
+# ✍️ Developer Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer Quote" />
+</p>
 
 ---
 
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
-<img alt="github contribution animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
-</picture>
+# 📬 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/anil-gorade-23914435b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:anilgorade8@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://x.com/anil_gorade_09">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://github.com/anilgorade8-star">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
