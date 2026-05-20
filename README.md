@@ -1,11 +1,7 @@
 <p align="center">
-  <h1 class="title">Anil Gorade</h1>
-
-<style>
-  .title{
-    text-align: center;
-  }
-</style>
+ <div style="text-align: center;">
+  <h1>Anil Gorade</h1>
+</div>
   
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7aa2f7&center=true&vCenter=true&width=550&lines=Full-Stack+MERN+Developer;CS+Engineering+Student;AI+%26+ML+Explorer;Passionate+Problem+Solver" alt="Typing SVG" />
