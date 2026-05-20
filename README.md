@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi 👋, I’m **Anil Gorade** — a passionate **Computer Science Engineering student** and aspiring **Full-Stack MERN Developer** focused on building modern, scalable, and user-friendly web applications.
 
-💻 I have hands-on experience with **HTML, CSS, JavaScript, React.js, Node.js, Express.js, SQL, and EJS**, and I enjoy creating real-world projects that combine both frontend and backend technologies.
+💻 I have hands-on experience with **HTML, CSS, JavaScript, React.js, Node.js, Express.js, SQL, MySQL, and EJS**, and I enjoy creating real-world projects that combine both frontend and backend technologies.
 
 🚀 I’m continuously improving my development skills, exploring new technologies, and strengthening my understanding of full-stack web development.
 
@@ -54,3 +54,40 @@ Hi 👋, I’m **Anil Gorade** — a passionate **Computer Science Engineering s
 - Backend Architecture
 - SQL Database Design
 - Artificial Intelligence & Machine Learning
+
+---
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=anilgorade8-star&theme=tokyonight&hide_border=true&show_icons=true)
+
+![](https://nirzak-streak-stats.vercel.app/?user=anilgorade8-star&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=anilgorade8-star&theme=tokyonight&hide_border=true&layout=compact)
+
+---
+
+# 🏆 GitHub Achievements
+![](https://github-profile-trophy.vercel.app/?username=anilgorade8-star&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+
+---
+
+## ✍️ Developer Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+## 🔥 Top Contributed Repositories
+![](https://github-contributor-stats.vercel.app/api?username=anilgorade8-star&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+---
+
+## 👀 Profile Views
+![](https://visitcount.itsvg.in/api?id=anilgorade8-star&icon=5&color=6)
+
+---
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+<img alt="github contribution animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+</picture>
