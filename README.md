@@ -1,18 +1,22 @@
 <h1 align="center">Hi 👋, I'm Anil Gorade</h1>
 
 <h3 align="center">
-  Full-Stack MERN Developer | CSE Student | AI & ML Explorer
+  🚀 Full-Stack MERN Developer | 💻 CSE Student | 🤖 AI & ML Explorer
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=7aa2f7&center=true&vCenter=true&width=700&lines=Full-Stack+MERN+Developer;Computer+Science+Engineering+Student;AI+%26+Machine+Learning+Explorer;Backend+Developer+%7C+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=7aa2f7&center=true&vCenter=true&width=800&lines=Full-Stack+MERN+Developer;Computer+Science+Engineering+Student;AI+%26+Machine+Learning+Explorer;Backend+Developer+%7C+Problem+Solver;Always+Learning+New+Technologies" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anilgorade8-star&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 - 🎓 Computer Science Engineering Student at **PCET's NMIET, Pune**
 - 💻 Passionate about **Full-Stack Web Development**
@@ -20,14 +24,17 @@
 - 🚀 Building real-world MERN stack projects
 - ⚡ Love solving coding problems and exploring new technologies
 - 🎯 Goal: Become a skilled **Software Engineer**
+- 📚 Exploring Backend Architecture & Cloud Technologies
 
 ---
 
-## 🎓 Academic Achievements
+# 🎓 Academic Achievements
 
 <p align="center">
   <img src="https://img.shields.io/badge/SSC-91.80%25-success?style=for-the-badge&logo=googlescholar"/>
+  
   <img src="https://img.shields.io/badge/HSC-86.67%25-blue?style=for-the-badge&logo=googlescholar"/>
+  
   <img src="https://img.shields.io/badge/B.Tech-CSE-orange?style=for-the-badge&logo=bookstack"/>
 </p>
 
@@ -66,18 +73,47 @@
 ## 🛠️ Tools & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,postman" />
 </p>
 
 ---
 
 # 🌱 Currently Learning
 
-- 🍃 MongoDB & Database Design
+- 🍃 MongoDB & NoSQL Database Design
 - 🔗 REST APIs & Authentication
 - 🏗️ Backend Architecture
 - 🤖 Artificial Intelligence & Machine Learning
 - ⚡ Advanced MERN Stack Development
+
+---
+
+# 🚀 Featured Projects
+
+| 🚀 Project | 💻 Tech Stack | 📖 Description |
+|------------|---------------|----------------|
+| 🛒 E-Commerce Website | MERN Stack | Full-stack shopping platform with authentication |
+| 💬 Real-Time Chat App | Socket.io, Node.js | Live chat application with rooms |
+| 🤖 AI Assistant | Python, OpenAI API | AI-powered chatbot assistant |
+| 📚 Notes App | React, Firebase | Cloud-based notes manager |
+
+---
+
+# 🧠 Coding Profiles
+
+<p align="center">
+  <a href="https://leetcode.com/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+
+  <a href="https://www.codechef.com/">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+  </a>
+
+  <a href="https://www.hackerrank.com/">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
@@ -87,6 +123,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=anilgorade8-star&show_icons=true&theme=tokyonight&hide_border=true" height="180em"/>
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anilgorade8-star&theme=tokyonight&hide_border=true" height="180em"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anilgorade8-star&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -145,5 +185,7 @@
 
 ---
 
-<h3 align="center">⭐ "Code • Learn • Build • Repeat" ⭐</h3>
+<h2 align="center">
+  ⭐ Code • Learn • Build • Repeat ⭐
+</h2>
 ```
