@@ -1,19 +1,21 @@
+```md id="f1n9xd"
 <p align="center">
  <div style="text-align: center;">
   <h1>Anil Gorade</h1>
 </div>
-  
+
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7aa2f7&center=true&vCenter=true&width=550&lines=Full-Stack+MERN+Developer;CS+Engineering+Student;AI+%26+ML+Explorer;Passionate+Problem+Solver" alt="Typing SVG" />
   </a>
 </p>
+
 ---
 
 # 💫 About Me
 
 Hi 👋, I’m **Anil Gorade** — a passionate **Computer Science Engineering student** at **PCET's NMIET, Pune** and an aspiring **Full-Stack MERN Developer** focused on building modern, scalable, and user-friendly web applications.
 
-- 💻 Hands-on experience with **HTML, CSS, JavaScript, React.js, Node.js, Express.js, SQL, MySQL, and EJS**
+- 💻 Hands-on experience with **HTML, CSS, JavaScript, React.js, Node.js, Express.js, MongoDB, Mongoose, Firebase, SQL, MySQL, Python, and EJS**
 - 🤖 Exploring **Artificial Intelligence & Machine Learning**
 - 🚀 Love building **real-world projects**
 - 🎯 Focused on becoming a skilled **Software Developer**
@@ -57,11 +59,15 @@ Hi 👋, I’m **Anil Gorade** — a passionate **Computer Science Engineering s
 ### ⚙️ Backend & Databases
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=mysql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 💻 Programming Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🛠️ Tools & Technologies
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -85,6 +91,7 @@ Hi 👋, I’m **Anil Gorade** — a passionate **Computer Science Engineering s
   <img src="https://github-profile-trophy.vercel.app/?username=anilgorade8-star&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Anil's Trophies" />
 </p>
 
+---
 
 # 🐍 Contribution Snake Game
 
@@ -125,3 +132,4 @@ Hi 👋, I’m **Anil Gorade** — a passionate **Computer Science Engineering s
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
+```
