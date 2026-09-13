@@ -18,13 +18,13 @@
 
 <img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-- 🎓 Computer Science Engineering Student at **PCET's NMIET, Pune**
-- 💻 Passionate about **Full-Stack Web Development**
-- 🌱 Currently learning **AI/ML & Scalable Backend Systems**
-- 🚀 Building real-world MERN stack projects
-- ⚡ Love solving coding problems and exploring new technologies
-- 🎯 Goal: Become a skilled **Software Engineer**
-- 📚 Exploring Backend Architecture & Cloud Technologies
+* 🎓 Computer Science Engineering Student at **PCET's NMIET, Pune**
+* 💻 Passionate about **Full-Stack Web Development**
+* 🌱 Currently learning **AI/ML & Scalable Backend Systems**
+* 🚀 Building real-world web development projects
+* ⚡ Love solving coding problems and exploring new technologies
+* 🎯 Goal: Become a skilled **Software Engineer**
+* 📚 Exploring Backend Architecture & Cloud Technologies
 
 ---
 
@@ -32,9 +32,9 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/SSC-91.80%25-success?style=for-the-badge&logo=googlescholar"/>
-  
+
   <img src="https://img.shields.io/badge/HSC-86.67%25-blue?style=for-the-badge&logo=googlescholar"/>
-  
+
   <img src="https://img.shields.io/badge/B.Tech-CSE-orange?style=for-the-badge&logo=bookstack"/>
 </p>
 
@@ -50,14 +50,23 @@
 
 ---
 
-## ⚙️ Backend & Databases
+## ⚙️ Backend
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,mysql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+---
+
+## 🗄️ Databases
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mongosh-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
 ---
@@ -65,7 +74,11 @@
 ## 💻 Programming Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,python" />
+  <img src="https://skillicons.dev/icons?i=javascript,python,c" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
 ---
@@ -78,31 +91,77 @@
 
 ---
 
+## ☁️ Deployment & Hosting
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vercel" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
+</p>
+
+---
+
 # 🌱 Currently Learning
 
-- 🍃 MongoDB & NoSQL Database Design
-- 🔗 REST APIs & Authentication
-- 🏗️ Backend Architecture
-- 🤖 Artificial Intelligence & Machine Learning
-- ⚡ Advanced MERN Stack Development
+* 🤖 Artificial Intelligence & Machine Learning
+* 🏗️ Backend Architecture
+* 🔗 REST APIs & Authentication
+* ☁️ Cloud & Deployment
+* ⚡ Advanced MERN Stack Development
+* 📊 Data Structures & Algorithms
 
 ---
 
 # 🚀 Featured Projects
 
-| 🚀 Project | 💻 Tech Stack | 📖 Description |
-|------------|---------------|----------------|
-| 🛒 E-Commerce Website | MERN Stack | Full-stack shopping platform with authentication |
-| 💬 Real-Time Chat App | Socket.io, Node.js | Live chat application with rooms |
-| 🤖 AI Assistant | Python, OpenAI API | AI-powered chatbot assistant |
-| 📚 Notes App | React, Firebase | Cloud-based notes manager |
+| 🚀 Project                                      | 💻 Tech Stack                                       | 📖 Description                                                                                                                                             |
+| ----------------------------------------------- | --------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 📹 **Zoom Clone – Video Conferencing Platform** | React, Node.js, Express, Socket.IO, WebRTC, MongoDB | Full-stack real-time video conferencing platform with HD video calls, screen sharing, in-call chat, authentication, protected routes, and meeting history. |
+| 📊 **Project Dashboard & Services**             | React, Vite, Node.js, JavaScript, CSS               | Full-stack project containing a backend API, React dashboard for administrative/analytics views, and a separate frontend marketing application.            |
+| 🖼️ **Gallery**                                 | React, Vite, Vanilla CSS                            | Responsive image gallery that fetches images from an external API with browsing, search, dynamic preview, API integration, and React Hooks.                |
+| 📈 **Zerodha Frontend Clone**                   | React.js, JavaScript, HTML, CSS, React Router, Vite | Zerodha-inspired responsive frontend with reusable React components and client-side routing.                                                               |
+| 📚 **Notes App**                                | React, Firebase                                     | Cloud-based notes management application.                                                                                                                  |
 
 ---
+
+# 🔗 Project Links
+
+<p align="center">
+
+<a href="https://github.com/anilgorade8-star/Connect">
+<img src="https://img.shields.io/badge/📹%20Zoom%20Clone-GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://connectfrontend-5cxo.onrender.com/">
+<img src="https://img.shields.io/badge/🚀%20Zoom%20Clone-Live%20Demo-46E3B7?style=for-the-badge&logo=render"/>
+</a>
+
+<br><br>
+
+<a href="https://github.com/anilgorade8-star/Kite">
+<img src="https://img.shields.io/badge/📊%20Dashboard%20%26%20Services-GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://github.com/anilgorade8-star/Gallery">
+<img src="https://img.shields.io/badge/🖼️%20Gallery-GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://github.com/anilgorade8-star/Zerodha">
+<img src="https://img.shields.io/badge/📈%20Zerodha%20Clone-GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://zerodha-drab-one.vercel.app/">
+<img src="https://img.shields.io/badge/🚀%20Zerodha-Live%20Demo-black?style=for-the-badge&logo=vercel"/>
+</a>
+
+</p>
+
+---
+
 # 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anilgorade8-star&show_icons=true&theme=tokyonight&hide_border=true" height="180em"/>
-  
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anilgorade8-star&theme=tokyonight&hide_border=true" height="180em"/>
 </p>
 
@@ -139,7 +198,8 @@
 # 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/anil-gorade-23914435b/" target="_blank">
+
+  <a href="https://www.linkedin.com/in/anil-gorade-23914435/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
@@ -154,6 +214,7 @@
   <a href="https://github.com/anilgorade8-star">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+
 </p>
 
 ---
@@ -161,4 +222,3 @@
 <h2 align="center">
   ⭐ Code • Learn • Build • Repeat ⭐
 </h2>
-```
